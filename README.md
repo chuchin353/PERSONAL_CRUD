@@ -1,3 +1,2 @@
 # PERSONAL_CRUD
-Tutorial de CRUD con php, mysql y js con MVC
-cambios1
+Tutorial de CRUD con php, mysql y js con MVC cambios1
